@@ -1,0 +1,16 @@
+export(
+  class.percent,
+  gran.stats,
+  rysgran.hist,
+  rysgran.plot,
+  rysgran.ternary,
+  legend.bubbles
+)  
+
+import(
+  graphics,
+  stats,
+  plyr, 
+  soiltexture,
+  lattice
+)
