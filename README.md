@@ -9,5 +9,7 @@ rysgran is not yet on CRAN.
 To install, just do:
 
 install.packages("remotes")
+
 library("remotes")
+
 remotes::install_github('mauricio-camargo/rysgran')
